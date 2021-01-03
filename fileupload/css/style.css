@@ -1,0 +1,23 @@
+.wrap
+{
+	display: flex;
+	margin-left: 20px;
+	width: 100%;
+}
+.card
+{
+width: 14%;
+background-color: red;
+align-content: center;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 20px;
+border-radius: 20px
+margin-left:30px;
+}
+.card img
+{
+	width: 166px;
+}
